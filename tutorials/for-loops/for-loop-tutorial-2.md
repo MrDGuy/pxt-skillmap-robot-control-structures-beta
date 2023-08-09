@@ -53,6 +53,11 @@ robot.begin_screen()
 for i in range(3):
     #Your hurdle code here
 #write the code here to move to the goalTile after the hurdles (so it is not included in the loop).
+robot.turn_right()
+robot.turn_left()
+robot.move_forward()
+robot.collect_coin()
+robot.place_coin()
 ```
 
 
