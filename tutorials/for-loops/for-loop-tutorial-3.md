@@ -14,7 +14,8 @@ robot.begin_screen()
 robot.move_forward()
 
 for i in range(5):
-  #your repeated code here.
+  pass
+  #Delete the pass above and write the code for one step.
 
 #code for toolbox
 robot.turn_right()
