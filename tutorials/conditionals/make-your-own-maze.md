@@ -69,8 +69,8 @@ def do_something():
     pass
 for i in range(4):
     pass
-if robot.can_move("forward"):
-    robot.move_forward()
+if robot.detect_coin():
+    robot.collect_coin()
 
 if robot.can_move("right"):
     robot.turn_right()
