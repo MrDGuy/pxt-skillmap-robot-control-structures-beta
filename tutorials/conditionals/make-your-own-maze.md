@@ -84,6 +84,9 @@ robot.turn_left()
 robot.turn_right()
 robot.goal_reached()
 robot.detect_coin()
+music.play(music.melody_playable(music.magic_wand), music.PlaybackMode.UNTIL_DONE)
+game.splash("Your Text Here.")
+game.reset()
 ```
 
 ## Step Seven
