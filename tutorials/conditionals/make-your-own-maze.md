@@ -63,6 +63,27 @@ Use the ``||robot:begin screen ||`` code to start your robot on the start tile a
 
 ```python
 robot.begin_screen()
+
+#code for toolbox:
+def do_something():
+    pass
+for i in range(4):
+    pass
+if robot.can_move("forward"):
+    robot.move_forward()
+
+if robot.can_move("right"):
+    robot.turn_right()
+else:
+    robot.turn_left()
+
+robot.move_forward()
+robot.place_coin()
+robot.collect_coin()
+robot.turn_left()
+robot.turn_right()
+robot.goal_reached()
+robot.detect_coin()
 ```
 
 ## Step Seven
