@@ -21,6 +21,8 @@ for i in range(5):
 robot.turn_right()
 robot.turn_left()
 robot.place_coin()
+def do_something():
+    pass
 ```
 
 ## Step Two
