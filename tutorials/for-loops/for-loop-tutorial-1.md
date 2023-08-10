@@ -92,6 +92,10 @@ for i in range(4):
     robot.move_forward()
     robot.turn_right()
 #write the remaining code here (so it is not included in the loop).
+
+#code for toolbox:
+def do_something():
+    pass
 ```
 
 
