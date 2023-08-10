@@ -61,6 +61,8 @@ robot.turn_left()
 robot.move_forward()
 robot.collect_coin()
 robot.place_coin()
+def do_something():
+    pass
 ```
 
 
