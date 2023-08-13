@@ -1,4 +1,4 @@
-# Customize Goal Music and Splash Screen
+# Customize Goal Music and Splash Screen with Collect coin
 
 ## Introduction @unplugged
 
