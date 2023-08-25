@@ -84,9 +84,13 @@ robot.turn_left()
 robot.turn_right()
 robot.goal_reached()
 robot.detect_coin()
-music.play(music.melody_playable(music.magic_wand), music.PlaybackMode.UNTIL_DONE)
-game.splash("Your Text Here.")
-game.reset()
+def on_update():
+    if robot.goal_reached():
+        music.play(music.melody_playable(music.magic_wand), music.PlaybackMode.UNTIL_DONE)
+        game.splash("Your Text Here.")
+        game.reset()
+game.on_update(on_update)
+
 ```
 
 ## Step Seven
