@@ -1,8 +1,8 @@
 # robot-control-structures
 * name: Coding the Robot in Python learning about Functions, Conditionals and Loops.
 * description: Extending python language concepts with the robot
-* bannerUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/first-tutorial-robot-test-2.png
-* backgroundurl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-background.png
+* bannerUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/first-tutorial-robot-test-2.png
+* backgroundurl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-background.png
 * primarycolor: #249CA3
 * secondarycolor: #000000
 * tertiarycolor: #FFFFFF
@@ -23,8 +23,8 @@
 * tags: introduction, functions
 * next: functions-activity1
 * position: 0 0
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/functions/functions-intro
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-func-sample.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/functions/functions-intro
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-func-sample.gif
 
 
 ### functions-activity1
@@ -36,8 +36,8 @@
 * next: functions-activity2
 * position: 1 0
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/functions/functions-tutorial-1
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/first-tutorial-robot-test-2.png
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/functions/functions-tutorial-1
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/first-tutorial-robot-test-2.png
 
 ### functions-activity2
 
@@ -48,8 +48,8 @@
 * next: functions-activity3
 * position: 2 0
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/functions/functions-tutorial-2
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-make-tower-2.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/functions/functions-tutorial-2
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-make-tower-2.gif
 
 
 ### functions-activity3
@@ -61,22 +61,22 @@
 * next: functions-cert
 * position: 3 0
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/functions/functions-tutorial-3
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-func-custom.png
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/functions/functions-tutorial-3
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-func-custom.png
 
 
 ### functions-cert
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/functions-certificate.pdf
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/functions-certificate.png
+* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/functions-certificate.pdf
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/functions-certificate.png
 * next: for-loop-activity1
 * position: 4 0
 * rewards:
     * certificate:
-        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/functions-certificate.pdf
-        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/functions-certificate.png
+        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/functions-certificate.pdf
+        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/functions-certificate.png
 
 
 
@@ -88,8 +88,8 @@
 * next: for-loop-activity2
 * position: 5 0
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/for-loops/for-loop-tutorial-1
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-for-square-coin.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/for-loops/for-loop-tutorial-1
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-for-square-coin.gif
 
 ### for-loop-activity2
 * name: Looping over hurdles
@@ -99,8 +99,8 @@
 * next: for-loop-activity3
 * position: 5 1
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/for-loops/for-loop-tutorial-2
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-for-hurdles.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/for-loops/for-loop-tutorial-2
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-for-hurdles.gif
 
 ### for-loop-activity3
 * name: Climbing Stairs
@@ -110,22 +110,22 @@
 * next: for-loop-cert
 * position: 4 1
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/for-loops/for-loop-tutorial-3
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-for-stairs.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/for-loops/for-loop-tutorial-3
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-for-stairs.gif
   
 
 ### for-loop-cert
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/for-loop-certificate.pdf
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/for-loop-certificate.png
+* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/for-loop-certificate.pdf
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/for-loop-certificate.png
 * next: conditionals-activity1
 * position: 3 1
 * rewards:
     * certificate:
-        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/for-loop-certificate.pdf
-        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/for-loop-certificate.png
+        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/for-loop-certificate.pdf
+        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/for-loop-certificate.png
      
 ### conditionals-activity1
 * name: If Statements - Can Move Right
@@ -135,8 +135,8 @@
 * next: conditionals-activity2
 * position: 2 2
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/conditionals/conditionals-tutorial-1
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-condition-can-move.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/conditionals/conditionals-tutorial-1
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-condition-can-move.gif
 
 ### conditionals-activity2
 * name: If Else If Statemetns - Can Move Left or Right
@@ -146,8 +146,8 @@
 * next: conditionals-activity3
 * position: 1 2
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/conditionals/conditionals-tutorial-2
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-condition-can-move-2.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/conditionals/conditionals-tutorial-2
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-condition-can-move-2.gif
 
 ### conditionals-activity3
 * name: Goal Music
@@ -157,8 +157,8 @@
 * next: conditionals-activity4
 * position: 0 2
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/conditionals/conditionals-tutorial-3
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-condition-music-1.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/conditionals/conditionals-tutorial-3
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-condition-music-1.gif
 
 ### conditionals-activity4
 * name: Collect Coins and Looping
@@ -168,22 +168,22 @@
 * next: conditionals-cert
 * position: 0 3
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/conditionals/conditionals-tutorial-4
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-condition-coin-1.gif
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/conditionals/conditionals-tutorial-4
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-condition-coin-1.gif
 
 
 ### conditionals-cert
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/if-conditionals-certificate.pdf
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/if-conditionals-certificate.png
+* url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/if-conditionals-certificate.pdf
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/if-conditionals-certificate.png
 * next: make-your-own-maze
 * position: 1 3
 * rewards:
     * certificate:
-        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/if-conditionals-certificate.pdf
-        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/if-conditionals-certificate.png
+        * url: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/if-conditionals-certificate.pdf
+        * preview: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/if-conditionals-certificate.png
 
 
 ### make-your-own-maze
@@ -193,5 +193,5 @@
 * tags: conditionals, loops, functions, customized tilemaps
 * position: 2 4
 
-* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures/tutorials/conditionals/make-your-own-maze
-* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures/main/docs/static/robot-cs-condition-coin-2.png
+* url: https://github.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/tutorials/conditionals/make-your-own-maze
+* imageUrl: https://raw.githubusercontent.com/MrDGuy/pxt-skillmap-robot-control-structures-beta/main/docs/static/robot-cs-condition-coin-2.png
